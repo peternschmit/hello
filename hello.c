@@ -11,7 +11,10 @@
 
 int main(int argc, char **argv) {
 
-    printf("Peter Schmit\n");
+    printf("\nIs my name Peter Schmit?\n");
+    printf("I'm not sure.\n");
+    printf("Am I an Emerging Media Arts student?\n");
+    printf("Apparently.\n\n");
 
     return 0;
 
